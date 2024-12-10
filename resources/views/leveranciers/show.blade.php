@@ -32,7 +32,6 @@
                 <th class="px-4 py-2 text-left text-sm font-semibold text-white">Producten Tonen</th>
             </tr>
             </thead>
-
             <tbody class="text-sm text-gray-200">
             @foreach ($leveranciers as $leverancier)
                 <tr class="border-t border-gray-400 hover:bg-white hover:bg-opacity-20">
