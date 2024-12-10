@@ -16,6 +16,7 @@
         <a href="/" class="inline-block px-4 py-2 text-sm font-medium bg-blue-500 rounded-full shadow-md hover:bg-blue-600 focus:outline-none focus:ring-4 focus:ring-blue-300">
             Terug naar Home
         </a>
+
     </div>
 </nav>
 
