@@ -19,8 +19,6 @@
     </div>
 </nav>
 
-
-
 <div class="container mx-auto mt-8 px-4">
     <div class="overflow-x-auto bg-white bg-opacity-10 p-6 rounded-xl shadow-2xl backdrop-filter backdrop-blur-lg">
         <table class="min-w-full table-auto">
